@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello erveryone 👋
 
-I am a full time Front Engineer in IQIYI Beijing China, mainly for nodejs.  
+I'm a full-time Engineer in IQIYI Beijing China, mainly for nodejs.  
 Thanks for you arriving.
 
 
